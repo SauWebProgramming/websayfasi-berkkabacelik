@@ -1,13 +1,30 @@
 .resimSlider
 {
     height: 600px;
-
+   
 
 }
 
 body
 {
-    padding: 50px;
+    
+    position: relative;
     font-family: 'Raleway', sans-serif;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+.hakkimizda
+{
+    background-color:whitesmoke;
+
+}
+
+.ayrac
+{
+    border:none;
+    border-top: 3px solid #343a40; 
+    max-width: 800px;
+    margin:25px auto;
 }
 
